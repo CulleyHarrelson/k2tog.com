@@ -6,12 +6,12 @@ require_once('header.php');
 
 <h1 class="mt-5 h3">Let's Chat</h1>
 
-<p>
-    If you have a project, I'd love to hear from you.
-</p>
 
 <div class="mt-3 container">
-<a href="mailto:harrelson@gmail.com">harrelson@gmail.com</a>
+<ul>
+    <li><a href="mailto:harrelson@gmail.com">harrelson@gmail.com</a></li>
+    <li><a href="https://www.linkedin.com/in/culley/">LinkedIn</a></li>
+</ul>
 </div>
 
 

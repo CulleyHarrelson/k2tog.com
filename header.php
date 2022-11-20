@@ -15,7 +15,7 @@ if ($_SERVER['SERVER_NAME'] != 'localhost' && empty($_SERVER['HTTPS'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <meta name="description" content="Culley Harrelson, PhD. Psychologist and UX Researcher, San Francisco, Bay Area, USA">
+    <meta name="description" content="Culley Harrelson, PhD. Business Intelligence, Clinical Psychology, San Francisco, Bay Area, USA">
     <title><?= $GLOBALS['title'] ?></title>
 <link rel="canonical" href="https://www.k2tog.com<?= $_SERVER['PHP_SELF'] ?>"/>
 <meta property="og:site_name" content="Culley Harrelson"/>
@@ -62,6 +62,7 @@ if ($_SERVER['SERVER_NAME'] != 'localhost' && empty($_SERVER['HTTPS'])) {
 <div class="navbar-nav">
 <a class="nav-item nav-link active" href="index.php">About</a>
 <a class="nav-item nav-link" href="portfolio.php">Portfolio</a>
+<a class="nav-item nav-link" href="book_reviews.php">Book Reviews</a>
 <!-- <a class="nav-item nav-link" href="survey.php">Survey</a> -->
 <a class="nav-item nav-link" href="contact.php">Contact</a>
 </div>
