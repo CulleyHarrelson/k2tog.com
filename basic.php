@@ -1,3 +1,6 @@
+<?php
+// this page is shown when k2tog.com is "offline"
+?>
 <html lang="en">
   <head>
     <meta charset="utf-8">
