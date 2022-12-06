@@ -63,7 +63,6 @@ equivalents.
 </div>
 
 <div class="row mb-5">
-
 <div class="col-sm">
 <!--  Data Modeling {{{ -->
 <div class="card">
@@ -153,7 +152,29 @@ Creation of conceptual and logical data models in addition to business process m
     </div>
     <!-- }}} -->
 </div>
+</div>
 
+<div class="row mb-5">
+<div class="col-sm">
+<!--  BigQuery ML {{{ -->
+<div class="card">
+  <img src="portfolio/bqml.png" class="card-img-top" alt="...">
+  <div class="card-body">
+    <h5 class="card-title">BigQuery ML &amp; Kaggle</h5>
+    <p class="card-text">
+This is an older portfolio article describing the use of BigQuery ML for entering into a kaggle.com competition.
+</p>
+
+<a class="btn btn-primary" target="_new" href="bqml.php" role="button">Project Description</a>
+
+</div>
+</div>
+<!-- }}} -->
+</div>
+<div class="col-sm">
+</div>
+<div class="col-sm">
+</div>
 </div>
 
 </div>

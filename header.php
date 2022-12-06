@@ -60,7 +60,7 @@ if ($_SERVER['SERVER_NAME'] != 'localhost' && empty($_SERVER['HTTPS'])) {
 <div class="navbar-nav">
 <a class="nav-item nav-link active" href="index.php">About</a>
 <a class="nav-item nav-link" href="portfolio.php">Portfolio</a>
-<!-- <a class="nav-item nav-link" href="book_reviews.php">Book Reviews</a> -->
+<a class="nav-item nav-link" href="book_reviews.php">Book Reviews</a>
 <a class="nav-item nav-link" href="contact.php">Contact</a>
 </div>
 </div>
