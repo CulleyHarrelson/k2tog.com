@@ -20,7 +20,7 @@ engineering, I am no longer looking for that type of work.
       <img src="portfolio/jupyter.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Data Analytics</h5>
-        <p class="card-text">Visualizging data with Tableau, Looker Data Studio, Jupyter Notebooks and python.</p>
+        <p class="card-text">Visualizing data with Tableau, Looker Data Studio, Jupyter Notebooks and python.</p>
 
 <a class="btn btn-primary" target="_new" href="https://github.com/CulleyHarrelson/GeneralSocialSurvey/blob/main/GSS-Essential-Variables.ipynb" role="button">View Notebooks</a>
 
