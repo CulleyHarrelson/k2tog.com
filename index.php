@@ -24,9 +24,6 @@ require_once('header.php');
               <li class="list-group-item"><a href="https://drive.google.com/drive/folders/1ACr8mIGpS1vxZ5Kz5FXNb6mdWaD6GE-j?usp=sharing">Reading Notes</a></li>
             </ul>
             </div>
-            <div class="col d-flex justify-content-center">
-                <img width="350" height="350" src="data.png" />
-            </div>
         </div>
     </div>
 
