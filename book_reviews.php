@@ -85,10 +85,11 @@ going on with your team.
       <div class="card-body">
         <h5 class="card-title">Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks</h5>
         <p class="card-text">
-I will be reviewing this book soon.
+Like <em>Storytelling with Data</em>, this book is a tool-agnostic view of the
+data visualization process.  Highly recommended!
         </p>
 
-    <a class="btn btn-primary" target="_new" href="" role="button">Review Coming Soon</a>
+    <a class="btn btn-primary" href="https://www.amazon.com/Better-Data-Visualizations-Scholars-Researchers/dp/0231193114/ref=sr_1_1?crid=3KNLGXKIV3W3W&keywords=better+data+visualization&qid=1670609284&sprefix=better+data+visualization%2Caps%2C173&sr=8-1" role="button">View on Amazon</a>
 
     </div>
     </div>

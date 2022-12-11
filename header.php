@@ -1,9 +1,4 @@
 <?php
-if ($_SERVER['SERVER_NAME'] != 'localhost' && empty($_SERVER['HTTPS'])) {
-    header('Location: https://www.k2tog.com' . $_SERVER['PHP_SELF']);
-    exit;
-}
-
 // uncomment when bringing k2tog.com "offline"
 //require_once('basic.php');
 //exit;
