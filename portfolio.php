@@ -35,9 +35,9 @@ engineering, I am no longer looking for that type of work.
       <div class="card-body">
         <h5 class="card-title">Data Warehousing</h5>
         <p class="card-text">
-I have nearly two years of experience working on Google's internal <a href="https://cloud.google.com/learn/what-is-a-data-lake">data lake</a> and data
-warehousing cloud services. BigQuery and Amazon RedShift are commercial
-equivalents.
+I have nearly two years of recent experience working on Google's internal <a href="https://cloud.google.com/learn/what-is-a-data-lake">data lake</a> and data
+warehousing cloud services. <a href="https://cloud.google.com/bigquery">BigQuery</a> and <a href="https://aws.amazon.com/redshift/">Amazon RedShift</a> are commercial
+equivalents. I have used <a href="https://www.postgresql.org/about/">PostgreSQL</a> for more than ten years.
     </p>
 
     </div>
