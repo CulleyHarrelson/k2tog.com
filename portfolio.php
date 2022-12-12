@@ -51,9 +51,10 @@ equivalents.
       <div class="card-body">
         <h5 class="card-title">Cloud Services</h5>
         <p class="card-text">
-        I have been managing unix systems for over twenty years, including FreeBSD,
-        Amazon Linux, Debian, macOS, and RedHat. This website is hosted on a custom EC2
-        instance. I am ready for GCP work as well.
+        I specialize in data engineering on unix systems, including FreeBSD,
+Amazon Linux, Google Linux, Debian, macOS, and RedHat. This website is hosted
+on my private <a href="https://aws.amazon.com/pm/ec2/">AWS EC2</a> instance. I have worked in Google environments for several years and
+I am prepared for GCP deployments as well.
         </p>
     </div>
     </div>
