@@ -16,7 +16,7 @@ require_once('header.php');
             <div class="col">
             <ul class="list-group">
               <li class="list-group-item"><a href="hs2.jpg">Photo</a></li>
-              <li class="list-group-item"><a href="jch-resume-q1-2023.pdf">Current Resume</a></li>
+              <li class="list-group-item"><a href="resume.pdf">Current Resume</a></li>
               <li class="list-group-item"><a href="portfolio.php">Portfolio</a></li>
               <li class="list-group-item"><a href="https://github.com/CulleyHarrelson">GitHub</a></li>
               <li class="list-group-item"><a href="JCH-PHD-Final.pdf">PhD Dissertation</a></li>
