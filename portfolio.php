@@ -20,8 +20,7 @@ engineering, I am no longer looking for that type of work.
       <img src="portfolio/jupyter.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Data Analytics</h5>
-        <p class="card-text">Visualizing data with Tableau, Looker Data Studio, Jupyter Notebooks and python.</p>
-
+        <p class="card-text">Visualizing data with Tableau, Looker Data Studio, Jupyter Notebooks and Plotly dash apps.</p>
 <a class="btn btn-primary" target="_new" href="https://github.com/CulleyHarrelson/GeneralSocialSurvey/blob/main/GSS-Essential-Variables.ipynb" role="button">View Notebooks</a>
 
     </div>
@@ -33,15 +32,13 @@ engineering, I am no longer looking for that type of work.
     <div class="card">
       <img src="portfolio/warehouse.png" class="card-img-top img-thumbnail" alt="...">
       <div class="card-body">
-        <h5 class="card-title">Data Warehousing</h5>
+        <h5 class="card-title">Data Engineering</h5>
         <p class="card-text">
 I have nearly two years of recent experience working on Google's internal cloud
-data stack for data warehousing. <a href="https://spark.apache.org/">Apache
-Spark</a>, <a href="https://cloud.google.com/bigquery">BigQuery</a> and <a
+data stack. <a href="https://www.databricks.com/">Databricks</a>, <a href="https://cloud.google.com/bigquery">BigQuery</a> and <a
 href="https://aws.amazon.com/redshift/">Amazon RedShift</a> are similar
-technology. I have also used <a
-href="https://www.postgresql.org/about/">PostgreSQL</a> for more than ten
-years.
+technologies. I also have over ten years of experience with <a
+href="https://www.postgresql.org/about/">PostgreSQL</a>.
     </p>
 
     </div>
