@@ -1,5 +1,5 @@
 <?php
-$GLOBALS['title'] = 'Culley Harrelson | Data Engineering';
+$GLOBALS['title'] = 'Culley Harrelson - Entrepreneur';
 require_once('header.php');
 ?>
 <div class="container">
@@ -7,7 +7,7 @@ require_once('header.php');
     <div class="container text-center">
     <h1 class="mt-5 h3">Culley Harrelson, PhD</h1>
     <div class="container mt-3 alert alert-info" role="alert">
-    <em>Data Engineer, San Francisco Bay Area</em>
+    <em>Entrepreneur, San Francisco Bay Area</em>
     </div>
     </div>
 
