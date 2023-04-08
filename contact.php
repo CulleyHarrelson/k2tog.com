@@ -9,6 +9,7 @@ require_once('header.php');
 <ul>
     <li><a href="mailto:harrelson@gmail.com">harrelson@gmail.com</a></li>
     <li><a href="https://www.linkedin.com/in/culley/">LinkedIn</a></li>
+    <li><a href="/CulleyHarrelsonResume.pdf">Resume</a></li>
 </ul>
 </div>
 

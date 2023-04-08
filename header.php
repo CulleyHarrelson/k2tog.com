@@ -23,9 +23,8 @@
     <meta name="twitter:title" content="<?= $GLOBALS['title'] ?>"/>
     <meta name="twitter:url" content="https://www.k2tog.com<?= $_SERVER['PHP_SELF'] ?>"/>
     <meta name="twitter:card" content="summary"/>
-     <!-- Bootstrap -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
     
     <link rel="icon" type="image/png" href="https://www.k2tog.com/favicon.ico">
     
@@ -53,9 +52,8 @@
 </button>
 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 <div class="navbar-nav">
-<a class="nav-item nav-link active" href="index.php">About</a>
+<a class="nav-item nav-link active" href="index.php">Home</a>
 <a class="nav-item nav-link" href="portfolio.php">Portfolio</a>
-<a class="nav-item nav-link" href="book_reviews.php">Book Reviews</a>
 <a class="nav-item nav-link" href="contact.php">Contact</a>
 </div>
 </div>
