@@ -39,7 +39,7 @@ require_once('header.php');
       </p>
       <div class="d-grid gap-2 d-sm-flex justify-content-sm-center">
         <a class="btn btn-primary btn-lg px-4 gap-3" href="/portfolio.php">Portfolio</a>
-        <a class="btn btn-outline-secondary btn-lg px-4" href="/resume.php">Resume</a>
+        <a class="btn btn-outline-secondary btn-lg px-4" href="/CulleyHarrelsonResume.pdf">Resume</a>
       </div>
     </div>
   </div>
