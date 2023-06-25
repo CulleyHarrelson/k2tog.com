@@ -20,8 +20,8 @@ engineering, I am no longer looking for that type of work.
       <img src="portfolio/jupyter.png" class="card-img-top" alt="...">
       <div class="card-body">
         <h5 class="card-title">Data Analytics</h5>
-        <p class="card-text">Visualizing data with Tableau, Looker Data Studio, Jupyter Notebooks and Plotly dash apps.</p>
-<a class="btn btn-primary" target="_new" href="https://github.com/CulleyHarrelson/GeneralSocialSurvey/blob/main/GSS-Essential-Variables.ipynb" role="button">View Notebooks</a>
+        <p class="card-text">Visualizing data with Tableau, Looker Data Studio, Jupyter Notebooks and Plotly dash apps. The button below shows an export of the <a href="https://github.com/CulleyHarrelson/GeneralSocialSurvey">GeneralSocialSurvey</a> project in github.</p>
+<a class="btn btn-primary" target="_new" href="/GSS-Essential-Variables.html" role="button">View Notebook</a>
 
     </div>
     </div>
